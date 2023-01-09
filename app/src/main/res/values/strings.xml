@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food_Tanya</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Food Delivery</string>
+    <string name="third_slide">Good Services</string>
+
+    <string name="description">loremnkdkvlndslnvpdnvpndopvn;dnv;ndovndkvnpdsnvpdmvpndknvpsndvpndskkp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

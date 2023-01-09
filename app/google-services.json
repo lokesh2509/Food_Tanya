@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060207136391",
+    "project_id": "food-tanya",
+    "storage_bucket": "food-tanya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060207136391:android:c0f8e5f32a10c9d2e9f222",
+        "android_client_info": {
+          "package_name": "com.example.food_tanya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060207136391-l55if3e9iu1ivigl8igoiqq5ubh0jebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnZ_XnusliUj3qNxJve_0gMiAmiBREg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060207136391-l55if3e9iu1ivigl8igoiqq5ubh0jebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
